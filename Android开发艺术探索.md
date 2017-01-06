@@ -1,6 +1,13 @@
 Android开发艺术探索
 
 ##Activity的生命周期与启动模式
+
+1.Activity正常情况下和异常情况下的生命周期分析
+
+2.启动模式和标志位Flags的说明
+
+3.IntentFilter的匹配规则
+
 ##IPC机制
 ##View的事件体系
 ##View的工作原理
