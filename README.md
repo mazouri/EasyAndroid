@@ -14,3 +14,7 @@
 learn the typical relationship of classes in UML.[01.Crazy Design Patterns & UML](http://www.jianshu.com/p/b85a07acc0cb)
 
 initial design patterns repo [Design Patterns](https://github.com/mazouri/EasyDesignPatterns)
+
+0106:
+
+strengthen the ackonwleage of activity liftcycle, launchmode, flags and IntentFileter use.
