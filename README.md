@@ -17,4 +17,4 @@ initial design patterns repo [Design Patterns](https://github.com/mazouri/EasyDe
 
 0106:
 
-strengthen the ackonwleage of activity liftcycle, launchmode, flags and IntentFileter use.
+strengthen the ackonwleage of activity liftcycle, launchmode, flags and IntentFilter use.
