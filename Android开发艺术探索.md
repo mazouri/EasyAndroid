@@ -9,6 +9,19 @@ Android开发艺术探索
 3.IntentFilter的匹配规则
 
 ##IPC机制
+
+1.IPC简介
+
+2.Android 中的多进行模式
+
+3.IPC基础概念介绍
+
+4. Android 中的几种IPC方式
+
+5.Binder连接池
+
+6.选用合适的IPC方式
+
 ##View的事件体系
 ##View的工作原理
 ##理解RemoteViews
