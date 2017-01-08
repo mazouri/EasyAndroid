@@ -11,10 +11,18 @@
 
 0105:
 
-learn the typical relationship of classes in UML.[01.Crazy Design Patterns & UML](http://www.jianshu.com/p/b85a07acc0cb)
+Learn the typical relationship of classes in UML.[01.Crazy Design Patterns & UML](http://www.jianshu.com/p/b85a07acc0cb)
 
-initial design patterns repo [Design Patterns](https://github.com/mazouri/EasyDesignPatterns)
+Initial design patterns repo [Design Patterns](https://github.com/mazouri/EasyDesignPatterns)
 
 0106:
 
-strengthen the ackonwleage of activity liftcycle, launchmode, flags and IntentFilter use.
+Strengthen the ackonwleage of activity liftcycle, launchmode, flags and IntentFilter use.
+
+0108:
+Strengthen the ackonwleage of the concept of IPC, learn something about Serializable, Parcelable and Binder. 
+
+Learn the kinds of IPC implemention: Use Bundle+Intent, use file to share data, use messager, AIDL, ContentProvider and Socket.
+And also binderpool.
+
+Learn the basic konwleage of View, the ways of view scrolling, Use Scroller.
