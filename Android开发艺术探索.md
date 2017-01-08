@@ -16,7 +16,7 @@ Android开发艺术探索
 
 3.IPC基础概念介绍
 
-4. Android 中的几种IPC方式
+4.Android 中的几种IPC方式
 
 5.Binder连接池
 
