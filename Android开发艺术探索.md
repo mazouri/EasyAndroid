@@ -23,8 +23,26 @@ Android开发艺术探索
 6.选用合适的IPC方式
 
 ##View的事件体系
+
+1.View的基础：位置参数，MotionEvent,TouchSlop, GestureDetector
+
+2.View的滑动: scrollBy,scrollTo;动画;布局参数
+
+3.弹性滑动
+
+4.事件分发机制
+
+5.三种滑动冲突的解决规则和方案
+
 ##View的工作原理
 ##理解RemoteViews
+
+1.RemoteViews在通知栏和桌面小部件上的应用
+
+2.RemoteViews的内部机制
+
+3.RemoteViews的意义
+
 ##Android的Drawable
 ##Android动画深入分析
 ##理解Window和WindowManager
