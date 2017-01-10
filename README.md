@@ -26,3 +26,7 @@ Learn the kinds of IPC implemention: Use Bundle+Intent, use file to share data, 
 And also binderpool.
 
 Learn the basic konwleage of View, the ways of view scrolling, Use Scroller.
+
+0110:
+The principle of View;
+Use RemoteViews
