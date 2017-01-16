@@ -32,4 +32,6 @@ The principle of View;
 Use RemoteViews
 
 0116:
-use sqlbrite
+use sqlbrite;
+[ZOL TOP20 phone](http://top.zol.com.cn/compositor/57/cell_phone.html)
+
