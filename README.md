@@ -30,3 +30,6 @@ Learn the basic konwleage of View, the ways of view scrolling, Use Scroller.
 0110:
 The principle of View;
 Use RemoteViews
+
+0116:
+use sqlbrite
